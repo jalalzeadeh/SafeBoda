@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  SafeBoda
+
+  Created by Jalal on 9/23/21.
+  
+*/
+// MARK: home
+"SEARCH_BUTTON_TITLE"                       = "Search";
+"HOME_HINT_SEARCH_TEXT"                     = "Enter your Github name";
+
+// MARK: user details
+"FOLLOWING"                                 = "Following";
+"FOLLOWERS"                                 = "Followers";
+"REPOS"                                     = "Repos";
+"USER_PROFILE_TITLE"                        = "Profile";
+"LOGOUT"                                    = "Logout";
+"DETAILS_SCREEN_COMPANY"                    = "Company:";
+"DETAILS_SCREEN_LOCATION"                   = "Location:";
+"DETAILS_SCREEN_BIO"                        = "Bio:";
+
+// MARK: Following
+"FOLLOWING_SCREEN_TITLE"                    = "User's Following";
+"EMPTY_VIEW_FOLLOWING_TITLE"                = "No data found";
+
+// MARK: Followers
+"FOLLOWERS_SCREEN_TITLE"                    = "User's Followers";
+"EMPTY_VIEW_FOLLOWERS_TITLE"                = "No data found";
